@@ -1,0 +1,9 @@
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\bin\Debug\PersonelBilgiSistemiCalismasi.exe.config
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\bin\Debug\PersonelBilgiSistemiCalismasi.exe
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\bin\Debug\PersonelBilgiSistemiCalismasi.pdb
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.csprojResolveAssemblyReference.cache
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.Form1.resources
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.Properties.Resources.resources
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.csproj.GenerateResource.Cache
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.exe
+C:\Users\Ali ÇAKIR\Desktop\Vusiual Studio Çalışma\Çalışma Personel Bilgi Sistemei\PersonelBilgiSistemiCalismasi\PersonelBilgiSistemiCalismasi\obj\Debug\PersonelBilgiSistemiCalismasi.pdb
