@@ -1,6 +1,6 @@
 Uygulama Visual Studio 2017 de yazılmıştır.
 Dil olarak C# programlama kullanılmıştır.
-.Net Framework 4.6tür.
+.Net Framework 4.6'dır.
 
 Uygulama çalıştırıldığında 
 
