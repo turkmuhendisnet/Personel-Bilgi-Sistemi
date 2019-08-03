@@ -1,9 +1,9 @@
-Uygulama Visual Studio 2017 de yazýlmýþtýr.
-Dil olarak C# programlama kullanýlmýþtýr.
-Framework 4.64 tür.
+Uygulama Visual Studio 2017 de yazÄ±lmÄ±ÅŸtÄ±r.
+Dil olarak C# programlama kullanÄ±lmÄ±ÅŸtÄ±r.
+.Net Framework 4.6tÃ¼r.
 
-Uygulama çalýþtýrýldýðýnda 
+Uygulama Ã§alÄ±ÅŸtÄ±rÄ±ldÄ±ÄŸÄ±nda 
 
 
-Personel bilgilerinin girilip ListView kaydedilen daha sonra çift týklandýðýnda personelin bilgilerinin 
-düzenlendiði programýndýr.
+Personel bilgilerinin girilip ListView kaydedilen daha sonra Ã§ift tÄ±klandÄ±ÄŸÄ±nda personelin bilgilerinin 
+dÃ¼zenlendiÄŸi programÄ±ndÄ±r.
