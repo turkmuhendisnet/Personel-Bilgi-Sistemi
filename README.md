@@ -6,6 +6,6 @@ Uygulama çalıştırıldığında
 
 
 Personel bilgilerinin girilip ListView kaydedilen daha sonra çift tıklandığında personelin bilgilerinin 
-![Anasayfa Resmi](https://github.com/turkmuhendisnet/Personel-Bilgi-Sistemi/blob/master/Resim.jpg)
-
 düzenlendiği programındır.
+
+![Anasayfa Resmi](https://github.com/turkmuhendisnet/Personel-Bilgi-Sistemi/blob/master/Resim.jpg)
